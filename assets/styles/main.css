@@ -100,3 +100,22 @@ img {
 .features .feature p {
   font-size: 15px;
 }
+.our-Learners {
+  padding-bottom: 200px;
+}
+.our-Learners h2 {
+  text-align: center;
+  font-family: "Poppins", serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.our-Learners .company-list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+.our-Learners .company-list img {
+  width: 251px;
+}
