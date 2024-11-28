@@ -71,3 +71,6 @@ img {
 .banner {
   padding: 75px 0;
 }
+.banner img {
+  border-radius: 50px;
+}
