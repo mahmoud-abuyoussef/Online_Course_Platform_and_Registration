@@ -38,3 +38,42 @@ img {
     width: 1170px;
   }
 }
+.hero {
+  background-image: url(../images/course-hero.webp);
+  background-position: center;
+  background-size: cover;
+}
+.hero .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  height: 500px;
+}
+.hero h1 {
+  font-size: 40px;
+  color: var(--white);
+  font-weight: bold;
+}
+.hero p {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--white);
+}
+.hero input {
+  border: none;
+  outline: none;
+}
+.hero .search-input {
+  width: 300px;
+  padding: 15px;
+  border-radius: 6px;
+}
+.hero .submit-btn {
+  width: 240px;
+  padding: 12px;
+  color: var(--white);
+  background-color: var(--black);
+  border-radius: 8px;
+}
