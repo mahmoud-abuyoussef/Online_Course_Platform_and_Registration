@@ -1,0 +1,73 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --black: #000000;
+  --white: #ffffff;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+img {
+  max-width: 100%;
+}
+.container {
+  padding: 0 15px;
+  margin: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+.hero {
+  padding: 60px 0;
+  background-image: url(../images/course-hero.webp);
+}
+.hero .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.hero h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: var(--white);
+}
+.hero p {
+  font-size: 16px;
+  font-weight: 300;
+  color: var(--white);
+}
+.hero form input {
+  display: block;
+  padding: 15px;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+}
+.hero form .search-input {
+  width: 360px;
+  background-color: var(--white);
+  margin-bottom: 24px;
+}
+.hero form .submit-btn {
+  width: 240px;
+  margin: auto;
+  color: var(--white);
+  background-color: var(--black);
+}
