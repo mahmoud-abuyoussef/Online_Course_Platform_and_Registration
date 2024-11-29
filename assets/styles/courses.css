@@ -111,3 +111,25 @@ img {
   font-size: 20px;
   font-weight: 500;
 }
+.courses-details {
+  padding: 60px 0;
+}
+.courses-details h2 {
+  margin-bottom: 60px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+.courses-details .courses-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  gap: 40px;
+}
+.courses-details .courses-list .course {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px;
+  border: 1px solid rgb(0 0 0 / 0.1);
+  border-radius: 6px;
+}
