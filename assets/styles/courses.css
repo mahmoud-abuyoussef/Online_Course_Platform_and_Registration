@@ -42,6 +42,7 @@ img {
   background-image: url(../images/course-hero.webp);
   background-position: center;
   background-size: cover;
+  padding: 60px 0;
 }
 .hero .container {
   display: flex;
@@ -49,7 +50,6 @@ img {
   align-items: center;
   justify-content: center;
   gap: 24px;
-  height: 500px;
 }
 .hero h1 {
   font-size: 40px;
