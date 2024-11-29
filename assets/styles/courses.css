@@ -42,7 +42,7 @@ section {
   font-size: 40px;
 }
 .hero {
-  background-image: url(../images/course-hero.webp);
+  background: url(../images/course-hero.webp) center / cover;
 }
 .hero .container {
   display: flex;
