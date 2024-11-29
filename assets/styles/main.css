@@ -76,6 +76,7 @@ img {
   padding-top: 75px;
 }
 .banner img {
+  width: 100%;
   border-radius: 50px;
 }
 .features {
