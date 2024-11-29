@@ -71,3 +71,37 @@ img {
   color: var(--white);
   background-color: var(--black);
 }
+.courses {
+  padding: 60px 0;
+}
+.courses h2 {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+.courses .courses-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 40px;
+}
+.courses .courses-list .course {
+  border: 1px solid rgb(0 0 0 / 0.1);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.courses .courses-list .course img {
+  width: 100%;
+}
+.courses .courses-list .course .info {
+  padding: 12px;
+}
+.courses .courses-list .course .info h3 {
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 4px;
+}
+.courses .courses-list .course .info span {
+  font-size: 20px;
+  font-weight: 500;
+}
