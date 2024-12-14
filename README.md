@@ -1,4 +1,4 @@
-# Online Courses Platform
+# Simple Learn
 
 ## [Demo](https://mahmoud-abuyoussef.github.io/Online_Courses_Platform/)
 
