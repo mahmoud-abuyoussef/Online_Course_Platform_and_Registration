@@ -1,6 +1,6 @@
 # Simple Learn
 
-## [Demo](https://mahmoud-abuyoussef.github.io/Online_Courses_Platform/)
+## [Demo](https://mahmoud-abuyoussef.github.io/Simple_Learn/)
 
 ## Tech Stack
 
