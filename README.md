@@ -20,7 +20,7 @@
 - ### Deployment
   - ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 
-**Design From Figma Community**
+**Design by Figma Community**
 
 ![Home Page](https://github.com/mahmoud-abuyoussef/Online_Courses_Platform/blob/main/design/home.png)
 ![Courses Page](https://github.com/mahmoud-abuyoussef/Online_Courses_Platform/blob/main/design/courses-page.png)
