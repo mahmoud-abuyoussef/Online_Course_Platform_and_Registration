@@ -19,8 +19,8 @@
 
 **Design From Figma Community**
 
-![Home Page]()
-![Courses Page]()
-![Courses Form Page]()
-![Courses Registration Page]()
-![Payment Page]()
+![Home Page](https://github.com/mahmoud-abuyoussef/Online_Courses_Platform/blob/main/design/home.png)
+![Courses Page](https://github.com/mahmoud-abuyoussef/Online_Courses_Platform/blob/main/design/courses-page.png)
+![Courses Form Page](https://github.com/mahmoud-abuyoussef/Online_Courses_Platform/blob/main/design/registeration.png)
+![Courses Registration Page](https://github.com/mahmoud-abuyoussef/Online_Courses_Platform/blob/main/design/course-registration.png)
+![Payment Page](https://github.com/mahmoud-abuyoussef/Online_Courses_Platform/blob/main/design/payment.png)
